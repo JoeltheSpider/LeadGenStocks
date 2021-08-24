@@ -16,3 +16,7 @@
 {"message": "Click Company 2", "time": "Tue, 24 Aug 2021 16:43:29 GMT", "ip": "59.99.188.190", "country": "India", "city": "Kozhikode", "session": "-JrvutTodWi2jYCO4eLUyOrx6wu0BhuO"}
 {"message": "GET /content?company=Company 2", "time": "Tue, 24 Aug 2021 16:43:30 GMT", "ip": "59.99.188.190", "country": "India", "city": "Kozhikode", "session": "-JrvutTodWi2jYCO4eLUyOrx6wu0BhuO"}
 {"message": "Click Company 2", "time": "Tue, 24 Aug 2021 16:43:29 GMT", "ip": "59.99.188.190", "country": "India", "city": "Kozhikode", "session": "-JrvutTodWi2jYCO4eLUyOrx6wu0BhuO"}
+{"message": "GET /content?company=Company 2", "time": "Tue, 24 Aug 2021 16:43:47 GMT", "ip": "59.99.188.190", "country": "India", "city": "Kozhikode", "session": "-JrvutTodWi2jYCO4eLUyOrx6wu0BhuO"}
+{"message": "Click Company 2", "time": "Tue, 24 Aug 2021 16:43:29 GMT", "ip": "59.99.188.190", "country": "India", "city": "Kozhikode", "session": "-JrvutTodWi2jYCO4eLUyOrx6wu0BhuO"}
+{"message": "GET /content?company=Company 4", "time": "Tue, 24 Aug 2021 16:44:31 GMT", "ip": "59.99.188.190", "country": "India", "city": "Kozhikode", "session": "-JrvutTodWi2jYCO4eLUyOrx6wu0BhuO"}
+{"message": "Click Company 4", "time": "Tue, 24 Aug 2021 16:44:31 GMT", "ip": "59.99.188.190", "country": "India", "city": "Kozhikode", "session": "-JrvutTodWi2jYCO4eLUyOrx6wu0BhuO"}
